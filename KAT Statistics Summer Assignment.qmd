@@ -96,7 +96,7 @@ hist(frq_scores)
 Edit the code block box below so it's like the one from step 8, but this time for the `mcq_scores` and then run it.It will make a histogram plot of the MCQ scores.
 
 ```{r}
-
+hist(mcq_scores)
 ```
 
 # 10. Send me your code
